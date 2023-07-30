@@ -1,7 +1,3 @@
-0)
+# Web_Infrastructure_Design
 
-1)
-
-2)
-
-3)
+This files contains photos of the infrastructures in web servers. Containing firewall, load balancer, nginx server, etc.
